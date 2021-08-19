@@ -1,0 +1,12 @@
+Executor
+
+Interface is
+Executor
+ExecutorService
+ScheduledExecutorService
+
+one class have factory method (All method static)
+Executors
+
+Callable Interfce  => call() method have return type --> any type of like String Object Int
+Future Interface
